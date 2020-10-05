@@ -26,7 +26,7 @@ gem 'simple_form'
 gem 'bootstrap-sass', '~> 3.3.6'
 gem 'devise'
 gem 'jquery-rails'
-gem "shrine", "~> 3.0"
+gem "shrine", "~> 3.3"
 gem "mini_magick"
 gem "aws-sdk"
 
